@@ -1,0 +1,25 @@
+#------------------------------------------
+# python related files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+#------------------------------------------
+# c related files
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
